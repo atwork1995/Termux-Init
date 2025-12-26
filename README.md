@@ -1,4 +1,4 @@
-# termux_init.sh
+# Termux Init
 Init termux when first install,but don't achieve
 For a little more convient,use ZeroTermux.dev,but non-Chinese support bad
 **Default no SHIFT,and can't copy better to Android,f**k**

@@ -1,10 +1,10 @@
 # Termux Convient Started Script , And Auto Dark Support
 Did't achieve
 
-For a little more convient,use ZeroTermux.dev,but non-Chinese support bad
+ZeroTermux.dev,maybe you need it
 
-**Default no SHIFT,and can't copy better to Android,f**k**
+Termux is a software to run linux in PC ways
 
-(no way use shorcut to Android,long press to copy hard to got long text)
+**Can't copy better to Android,f**k
 
-Install some perfect software for only-bash Termux,and try to add Auto Dark feature
+Install basic software,try to add Auto Dark feature to Termux App
